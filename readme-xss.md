@@ -135,16 +135,3 @@ def test_benign_text():
 * Jika menambahkan sanitasi, pertimbangkan menaruh fungsi baru (mis. `sanitize_input()`) dan dokumentasikan trade-offs.
 
 ---
-
-## License
-
-Sertakan lisensi repo-mu (mis. MIT) di root repo. Jika ingin, tambahkan contoh `LICENSE` dan tambahkan catatan di README ini.
-
----
-
-Jika kamu mau, aku bisa juga membuatkan:
-
-* file `README.md` lengkap yang siap commit,
-* atau `tests/test_xss.py` lengkap dengan beberapa payload (benign + malicious) untuk CI.
-
-Mau aku generate salah satunya sekarang?
